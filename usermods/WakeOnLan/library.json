@@ -1,0 +1,8 @@
+{
+  "name": "WakeOnLan",
+  "version": "1.0.0",
+  "description": "Send Wake-on-LAN magic packet via MQTT trigger",
+  "build": {
+    "libArchive": false
+  }
+}
